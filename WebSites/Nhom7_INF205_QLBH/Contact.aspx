@@ -7,17 +7,17 @@
 
     <section class="contact">
         <header>
-            <h3>Hotline: 01234567896</h3>
+            <h3>Hotline: 09742280876</h3>
             <p style="color: #000000; font-weight: normal; font-style: italic; font-size: large">Tel: 0886868686</p>
         </header>
     </section>
 
     <section class="contact">
         <header>
-            <h3>Email:</h3>
+            <h3 style = "color : red;">Email:</h3>
         </header>
         <p>
-            Hỗ Trợ<span class="label">:</span>
+            <p style = "color : red;">Hỗ Trợ</p><span class="label">:</span>
             hotrocshop@gmail.com</p>
         <p>
             Bán Hàng: banhangcshop@gmail.com</p>
